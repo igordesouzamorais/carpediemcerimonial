@@ -1,0 +1,14 @@
+#jumb-contato {
+  margin-top: 50px;
+  background: url('../../../assets/img/flor-contato.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+#div-contato p {
+  font-size: 1.4em;
+}
+
+#rodape {
+  background: url('../../../assets/img/folhas.jpg') center center no-repeat;
+  background-size: cover;
+}
