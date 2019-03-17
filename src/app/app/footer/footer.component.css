@@ -1,0 +1,9 @@
+#rodape {
+  background: url('../../../assets/img/folhas.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
